@@ -5,7 +5,7 @@
 Do all of your work in one file (`server.js`). No need to break things out into other files yet.
 
 - Add a `.gitignore` file that ignores will not commit your `/node_modules` folder
-- Bring `express` into your project using npm install
+- Bring `express` into your project using npm (see comments at top of server.js for help)
 - Your application should run on `localhost:5000`
 - the route `/` should return `welcome to the Express Express, the fastest train in the WESS`
 - the route `/train` should return return the list of trains
