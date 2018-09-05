@@ -16,4 +16,4 @@ Do all of your work in one file (`server.js`). No need to break things out into 
 
 - Move the list of trains into `modules/trains.js`
 - Move the `/train` routes into `routes/train.router.js`
-- Moment is another common module for time. `npm install moment` and use it to show the time of the next train. Trains run every ten minutes starting at the top of the hour. So visiting `localhost:5000/train/next` at 2:35pm should should `2:40pm` as the result.
+- Moment is another common module for time. `npm install moment --save` and use it to show the time of the next train. Trains run every ten minutes starting at the top of the hour. So visiting `localhost:5000/train/next` at 2:35pm should should `2:40pm` as the result.
