@@ -2,7 +2,7 @@
 
 ## Base
 
-Do all of your work in one file (`server.js`). No need to break things out into other files yet.
+Do all of your javascript work in one file (`server.js`). No need to break things out into other files yet.
 
 - Add a `.gitignore` file that ignores will not commit your `/node_modules` folder
 - Bring `express` into your project using npm (see comments at top of server.js for help)
