@@ -14,6 +14,8 @@ const trains = [
     { name: 'Jessie', color: 'Yellow'},
 ];
 
+console.log('Hello! I am on the feature branch!');
+
 // -------- BASE -----//
 
 app.use(express.static('server/public'));
