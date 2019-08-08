@@ -9,5 +9,4 @@ function init() {
         $('.js-container').append(`<p>${train.name}</p>`)
        }
     });
-
 }
